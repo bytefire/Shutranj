@@ -1,5 +1,0 @@
-This is the directory for your engine-files.
-Please create a separate directory for each engine.
-
-Dies ist das Verzeichnis für eure Motoren-Dateien.
-Erstellt bitte ein eigenes Verzeichnis für jeden Motor.

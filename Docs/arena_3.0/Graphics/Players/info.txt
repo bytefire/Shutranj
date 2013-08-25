@@ -1,4 +1,0 @@
-This is the directory for your player-picture-files gm.spf and historic.spf.
-
-
-Dies ist das Verzeichnis für eure Spieler-Bild-Dateien gm.spf und historic.spf.
