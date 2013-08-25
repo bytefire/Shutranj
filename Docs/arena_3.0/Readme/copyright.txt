@@ -1,0 +1,263 @@
+Copyright (C) for Arena 3.0
+Last update: MB 2010-12-24
+
+License agreements:
+
+You are allowed to download the program package and install it on as many
+computers as you like free of charge.
+
+Partner engines:
+
+AnMon 5.75, 
+Dragon 4.6, 
+Nejmet 3.07, 
+SOS 5.1 for Arena, 
+Hermann 2.7
+ProDeo 1.5
+Rybka 2.2 (free) and 
+Spike 1.2/1.4
+
+FRC partner engines:
+
+Spike 1.0a, 
+Betsy 6.51, Chispa 4.03, 
+Frenzee 2.00, Hermann 1.5 and 
+Aice 0.92
+
+However, distribution or offering of Arena Chess GUI, SOS for Arena, Dragon,
+AnMon, Nejmet, Ruffian, Chispa, Hermann, Frenzee, Gaviota
+and ELOstat on other webpages, newspaper, CDs, print and other media is only
+allowed in unmodified form and with the written permission of their respective
+authors Martin Blume, Rudolf Huber, Bruno LUCAS, Christian BARRETEAU,
+Jean-Christophe GABILLARD, Per-Ola Valfridsson, Landon W. Rabern, Richard Pijl,
+Federico Andrés Corigliano, Sune Fischer, Volker Annuss, Miguel A. Ballicora
+and Dr. Frank Schubert.
+
+--------------------------------------------------------------------------------
+
+Arena Setup = Arena Chess GUI + Engines SOS, AnMon, 
+Dragon, Nejmet, Chispa, Hermann, Spike, ProDeo engines.
+
+
+Copyright Information regarding for Arena GUI:
+Copyright (C) 2002-2010
+by Martin Blume, Germany.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+Used by permission of Martin Blume.
+All rights reserved.
+
+Copyright Information regarding for SOS for Arena engine:
+Arena Setup 1, 2 (UCI engine, main partner engine)
+Copyright (C) 2002-2010
+by Rudolf Huber, Germany.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+Used by permission of Rudolf Huber.
+All rights reserved.
+
+Copyright Information regarding for Pro Deo engine:
+Arena Setup 1, 2 (UCI engine)
+Copyright (C) 2007-2010
+by Ed Schröder, the Netherlands.
+http://www.playwitharena.com
+http://www.top-5000.nl
+Used by permission of Ed Schröder.
+All rights reserved.
+
+Copyright Information regarding for Dragon engine:
+Arena Setup 2 (UCI engine)
+Copyright (C) 2002-2010
+by Bruno LUCAS, France.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://wbec-ridderkerk.nl/
+Used by permission of Bruno LUCAS.
+All rights reserved.
+
+Copyright Information regarding for AnMon engine:
+Arena Setup 2 (UCI engine)
+Copyright (C) 2002-2010
+by Christian BARRETEAU, France.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://wbec-ridderkerk.nl/
+Used by permission of Christian BARRETEAU.
+All rights reserved.
+
+Copyright Information regarding for Nejmet engine:
+Arena Setup 2 (UCI, WB engine)
+Copyright (C) 2002-2010
+by Jean-Christophe GABILLARD, France.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://membres.lycos.fr/nejmet/
+Used by permission of Jean-Christophe GABILLARD.
+All rights reserved.
+
+Copyright Information regarding for Betsy engine:
+Arena Setup 3 (FRC engine)
+Copyright (C) 2003-2004
+by Landon W. Rabern, USA.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://userfs.cec.wustl.edu/~lwr1/
+Used by permission of Landon W. Rabern.
+All rights reserved.
+
+Copyright Information regarding for The Baron engine:
+Arena Setup 3 (FRC engine)
+Copyright (C) 2003-2004
+by Richard Pijl, Netherland.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://home.wanadoo.nl/richard.pijl/
+Used by permission of Richard Pijl.
+All rights reserved.
+
+Copyright Information regarding for Chispa engine:
+Arena Setup 3 (FRC, WB engine)
+Copyright (C) 2003-2004
+by Federico Andrés Corigliano, Argentina.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://www.winboard.info/chispa/
+Used by permission of Federico Andrés Corigliano.
+All rights reserved.
+
+Copyright Information regarding for Hermann engine:
+Arena Setup 2 (UCI, WB engine)
+Arena Setup 3 (FRC, UCI, WB engine)
+Copyright (C) 2004
+by Volker Annuss, Germany
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://www.nnuss.de/Hermann/
+Used by permission of Volker Annuss.
+All rights reserved.
+
+Copyright Information regarding for Frenzee engine:
+Arena Setup 3 (FRC, WB engine)
+Copyright (C) 2004
+by Sune Fischer, Denmark
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+http://www.geocities.com/ruleren/
+Used by permission of Sune Fischer.
+All rights reserved.
+
+
+Copyright Information regarding for ELOstat:
+Tool for an ELO calculation!
+Copyright (C) 2002-2005
+by Dr. Frank Schubert, Germany.
+http://www.playwitharena.com
+http://www.playwitharena.co.uk
+Used by permission of Dr. Frank Schubert.
+All rights reserved.
+
+Copyright:
+Arena, SOS for Arena, Pro Deo, Dragon, AnMon, Nejmet, Ruffian, Betsy, The Baron, Chispa,
+Hermann, Frenzee, Gothmog and ELOstat themselves are under copyright (German:
+"Urheberrecht") for the benefit of their program authors.
+
+Non-commercial:
+Arena, SOS for Arena, Pro Deo, Dragon, AnMon, Nejmet, Ruffian 1.x, Betsy, The Baron,
+Chispa, Hermann, Frenzee, Gothmog and ELOstat may only be distributed free of
+charge. Commercial advertisement, distribution for profit, and distribution
+through commercial companies is generally prohibited.
+
+ 
+
+ 
+
+Written permissions for Arena 1.x:
+Generally Freeware / Shareware webpages we added Arena Setup 1 aren't in this
+table.
+
+1.
+Alexander Schmidt
+http://www.uciengines.de/
+UCI Arena partner!
+
+Alexander Schmidt has an exclusive permissions to add Patzer in combination
+with Arena on his webpage. Patzer and BitBases for Patzer may not be distributed
+as part of any software package, service or web site without prior written
+permission from the author.
+
+Copyright Information regarding for Patzer engine:
+Arena Setup 4 (UCI, WB, SMP engine)
+Copyright (C) 2004
+by Roland Pfister, Germany
+http://www.uciengines.de
+Used by permission of Roland Pfister.
+All rights reserved.
+
+
+--------------------------------------------------------------------------------
+
+2a. DGT projects
+Ben Bursik / Hermen Reitsma
+http://www.dgtprojects.com/
+Commercial Arena Partner!
+
+Ben Bursik / Hermen Reitsma has the permission to add Arena Setup 1 on DGT
+webpage. Furthermore, DGT projects is free in the decision to create a free
+customer CD with Arena Setup 1.
+
+2b. Schach Niggemann
+Günther Niggemann
+http://www.schachversand.de/
+Commercial Arena Partner!
+
+Günther Niggemann is free in his decision to add Arena Setup 1 on a catalog
+CD / DVD for his customers. Günther Niggemann is exclusiv distributor for the
+commercial Ruffian 2.x CD-Rom.
+
+2c. Chess Academy
+Witali Braslawski
+http://www.chess-academy.com/
+Commercial Arena partner!
+
+Witali Braslawski has the permission to add Arena Setup 1 on an additional
+CD / DVD as part to his commercial project Chess-Academy.
+
+
+--------------------------------------------------------------------------------
+
+3a.
+Reinhard Scharnagl
+http://www.chessbox.de/Compu/fullchess1.html
+FRC Arena partner!
+
+3b.
+Axel Fritz
+http://www.chesstigers.de/
+FRC Arena partner!
+
+Reinhard Scharnagl, and Axel Fritz has the permission to add Arena Setup 3 on
+the Smirf and ChessTigers webpage.
+
+
+--------------------------------------------------------------------------------
+
+4.
+Peter Fendrich
+http://terra.fendrich.se/
+Programmer of UCI / WB Terra
+
+Jean Peter Fendrich is free in his decision to add Arena in combination WITH his
+own engine Terra on his Terra webpage.
+
+
+--------------------------------------------------------------------------------
+
+Arena team:
+Programmer of Arena: Martin Blume
+Organisation: Michael Diosi
+Webmaster of http://www.playwitharena.co.uk: Christopher Conkie & Michael Diosi
+Webmaster of http://www.playwitharena.com: Michael Diosi
+ 
+
+Written by Martin Blume
+with permisson by all authors!

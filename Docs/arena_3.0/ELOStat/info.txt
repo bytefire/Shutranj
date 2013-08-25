@@ -1,0 +1,19 @@
+Directory for ELOStat files.
+ELOStat output:
+- cluster.dat
+- general.dat
+- programs.dat
+- rating.dat
+will be written to this directory.
+The *.dat files will be overwritten every time ELOStat is started.
+
+Verzeichnis für ELOStat Dateien.
+Die ELOStat Ausgaben:
+- cluster.dat
+- general.dat
+- programs.dat
+- rating.dat
+werden in dieses Verzeichnis geschrieben.
+Die *.dat Dateien werden bei jedem Start von ELOStat überschrieben.
+
+by Dr. Frank Schubert

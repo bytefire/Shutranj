@@ -1,0 +1,13 @@
+This is the directory for the help files for users of Linux/Wine. Here the file
+helpview.exe and folder /en should reside, if you are using Wine. The
+reason for this is that the Wine CHM-viewer for the normal Arena 
+helpfile english.chm is not capable of displaying graphics and 
+links. Unpack the English helpfiles for Wine (available as separate download) 
+to this place. Windows users do not need this folder.
+
+Dies ist das Verzeichnis für die Hilfedateien für Linux/Wine- Benutzer. Die Datei
+helpview.exe und der Ordner /de sollte sich hier befinden, wenn Sie Wine benutzen.
+Der Grund dafür ist, daß Wine nicht in der Lage ist, CHM-Dateien wie die
+normale Arena Hilfedatei deutsch.chm mit Grafiken und Links darzustellen.
+Entpacken Sie die deutschen Hilfedateien (als separater Download erhältlich) 
+für Wine hierhin. Windows-Benutzer benötigen dieses Verzeichnis nicht.

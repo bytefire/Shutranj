@@ -1,0 +1,31 @@
+Filthy Mind Chess
+
+Choose your side (w/b): b
+Start playing.
+
+Filthy Mind: e2e4 (Depth: 7 plies; Time: 20366ms; Score: -90)
+You: c7c5
+Filthy Mind: b1c3 (Depth: 7 plies; Time: 66569ms; Score: -80)
+You: b8c6
+Filthy Mind: g1f3 (Depth: 7 plies; Time: 75269ms; Score: -45)
+You: g7g6
+Filthy Mind: a2a3 (Depth: 8 plies; Time: 25420ms; Score: -25)
+You: f8g7
+Filthy Mind: f1b5 (Depth: 7 plies; Time: 91572ms; Score: -40)
+You: d7d6
+Filthy Mind: b5c6 (Depth: 8 plies; Time: 16610ms; Score: -5)
+You: b7c6
+Filthy Mind: h2h3 (Depth: 7 plies; Time: 56944ms; Score: -60)
+You: fen
+Board Position: r1bqk1nr/p3ppbp/2pp2p1/2p5/4P3/P1N2N1P/1PPP1PP1/R1BQK2R w KQkq -
+ 0 1
+You: e7e5
+Filthy Mind: d2d3 (Depth: 7 plies; Time: 34999ms; Score: -30)
+You: g8f6
+
+/***************** error move? **********************/
+Filthy Mind: f3e5 (Depth: 8 plies; Time: 27084ms; Score: -10)
+You: fen
+Board Position: r1bqk2r/p4pbp/2pp1np1/2p1N3/4P3/P1NP3P/1PP2PP1/R1BQK2R w KQkq -
+0 1
+You:

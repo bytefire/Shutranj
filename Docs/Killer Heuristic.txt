@@ -1,0 +1,33 @@
+Hi Jan,
+they are both technically quite easy to implement.
+What you must know, however, is that hash-tables, move ordering and these two
+heuristics are very closely interacting with each other so the way you implement
+one of them affects the optimal implementation for the others. Testing and more
+testin is the only way to find out in detail which combination is best.
+
+(from: http://www.stmintz.com/ccc/index.php?id=21080)
+
+1) Killer heuristic.
+The idea is that the same move often is a "killer move" on the same plydepth
+regardless of what the previous move was. This is true very often during the
+tree search.
+The implementation is as a table.
+The classical killer table has one entry for each possible plydepth. The entry
+is a move. In every node, during the tree search, you just store the move that
+turned out to be the best one in that node. You store it in the entry for that
+plydepth. Whenever you are going to generate moves you grab the killer move for
+that plydepth and generate it as one of the first moves (after hash-move and
+captures). Now, to get it more effective you can do some enhancements. As an
+example: don't save capture moves in the killer table. They will be tried early
+anyway.
+
+My own implementation has two (2) entries for each plydepth. Each entry includes
+a move and a counter. Each time one of the two moves is the 'best' one the
+counter for that move is incremented. When a new killer move is found it
+replaces the move with the lowest counter. The new move is stored with the
+counter set to zero.
+When moves are generated, the killer move with the highest counter is tried
+first and the other comes next (after the hash moves and captures)
+
+I'm sure you will find code for Killer tables in some of the source code samples
+available on the net.

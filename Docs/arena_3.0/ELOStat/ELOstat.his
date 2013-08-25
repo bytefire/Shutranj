@@ -1,0 +1,111 @@
+ELOStat-History:
+
+
+Aenderungen von Version 1.2 auf 1.3:
+
+- Maximal moegliche Anzahl von verschiedenen Spielern/Programmen auf 1500 erhoeht.
+- Routine zur Berechnung der Konfidenzintervalle komplett erneuert (nutzt jetzt die sogenannte
+  nichtparametrische ABC-Methode (Approximated Bootstrap Confidence)) nach Efron und
+  Tibshirani. Danke an Dr. Jeff Lischer (USA), der mich auf dieses phantastische Verfahren 
+  aufmerksam machte und an alle Nutzer, die auf die Unzulänglichkeiten der alten Methode 
+  hingewiesen haben. 
+- Einige kleinere Bugs im Zusammenhang mit der Ausgabe der Einzelstatistiken beseitigt  
+
+Changes from version 1.2 to 1.3:
+
+- maximum number of different players/programs increased to 1500
+- algorithm for calculating the confidence intervals completely changed (now uses the
+  so called nonparametric ABC method (approximated bootstrap confidence)) by Efron
+  and Tibshirani. Many thanks to Dr. Jeff Lischer (US) for drawing my attention to this 
+  fantastic method and to all users who pointed out the insufficiencies of the old method.
+- some minor bugs in individual statistics output removed  
+
+Frank Schubert
+Dresden, January 13, 2005
+
+ 
+
+Aenderungen von Version 1.1b auf 1.2:
+
+- Programm neu kompiliert, sollte jetzt unter allen 32-Bit-Windows-
+  Betriebssystemen (Win95, 98, Me, NT4.0, 2000) und auch Win XP
+  laufen
+
+- lange Dateinamen werden nun unterstützt
+
+- Die Auswahl des Programmmodus muss nun durch die Eingabetaste
+  bestätigt werden. Die ursprüngliche ungepufferte Variante war nicht
+  stabil.
+
+Changes from version 1.1b to 1.2:
+
+- program has been re-compiled and should now work on each 32Bit
+  Windows operating system (Win95, 98, Me, NT4.0, 2000) and WinXP
+
+- long filenames are supported now
+
+- choose of program mode must now be confirmed by the enter key,
+  the first unbuffered version was unstable.
+   
+
+Frank Schubert
+Dresden, 01/20/2003
+
+
+
+Aenderungen von Version 1.1 auf 1.1b:
+
+- Bug beseitigt, der bei PGN-Files, die eckige Klammern innerhalb
+  der geschweiften Kommentarklammern verwendeten, zum Absturz
+  fuehrte.
+
+Changes from version 1.1 to 1.1b:
+
+- bug eliminated which produced program failure in some PGN files
+  using [angular] brackets inside the {curved} commentary brackets.  
+
+
+Frank Schubert
+Dresden, 04/20/2000 
+
+
+
+
+Aenderungen von Version 1.0 auf 1.1:
+
+- Clusterroutine ueberarbeitet, arbeitet jetzt rekursiv und 100% 
+  korrekt (hoffentlich).
+- In der Ergebnisdatei 'cluster.dat' wird jetzt zusaetzlich der 
+  sog. Iterationsoffset (itoffset) angegeben. Diese Groesse ist 
+  allerdings eher von technischem Interesse. Naeheres dazu 
+  findet sich im Manual.
+- Routine zur Ermittlung der Fehlergrenzen ergaenzt; arbeitet 
+  jetzt auch fuer Programme mit genau 50 % Gesamtperformance 
+  korrekt.
+- Bug beseitigt, der bei Programmen, die in der Datenbank 
+  lediglich mit noch nicht beendeten Partien vertreten waren, 
+  zu einer Division durch Null fuehrte.
+- Interne Genauigkeit des Iterationsverfahrens etwas 
+  heruntergesetzt, um auch bei langsamer Konvergenz des 
+  ein Ergebnis in akzeptabler Zeit zu erhalten.
+
+
+Changes from version 1.0 to 1.1:
+
+- Algorithm for cluster identification revised, now implemented 
+  with recursion.
+- The file 'cluster.dat' now also gives the so called iteration offset 
+  (itoffset) which is mainly of technical interest. More details can 
+  be found in the manual.
+- Algorithm for calculating the margins of error was improved. 
+  Is now also working correctly if the total performance of a program 
+  is exactly 50 %.
+- Bug eliminated which produced a 'division by zero'-error if a 
+  program was represented by unfinished games only. 
+- Internal accuracy of the iteration procedure reduced in order to 
+  produce results within an acceptable time limit for databases with 
+  very slow convergence.
+
+
+Frank Schubert
+Dresden, 02/13/2000 

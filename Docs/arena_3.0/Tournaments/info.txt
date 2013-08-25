@@ -1,0 +1,3 @@
+This is the directory for tournament files.
+
+Dies ist das Verzeichnis für Turnierdaten.

@@ -1,0 +1,23 @@
+Computername    Computer Brand String                               MHz  ArenaMark CPUEfficiency
+PC11            AMD-K7(tm) Processor                         599.70 MHz    3.69 AM   0.92 EF
+L5C1C6          AMD-K7(tm) Processor                         698,40 MHz    4,25 AM   0,91 EF
+PC12            AMD Athlon(tm) Processor                    1060.95 MHz    6.38 AM   0.90 EF
+PC10            AMD Athlon(tm) MP                           1200.12 MHz    7.23 AM   0.90 EF
+PC15            AMD Sempron(tm) Processor 3000+             1654.93 MHz   11.05 AM   1.00 EF   
+KOELN           AMD Athlon(tm) 64 Processor 3000+           2002,59 MHz   13,65 AM   1,02 EF
+1-W53J0E7EQTX6V AMD Athlon(tm) 64 Processor 4000+           2412,51 MHz   16,94 AM   1,05 EF
+TCTECDB056      Intel(R) Celeron(R) CPU 2.80GHz             2791.71 MHz    8.64 AM   0.46 EF   
+M1483S3         GenuineIntel                                 452.83 MHz    2.59 AM   0.86 EF
+M1125S3         GenuineIntel P3                              702.54 MHz    4.32 AM   0.92 EF
+M1106S3         GenuineIntel P3                              993.43 MHz    5.98 AM   0.90 EF
+M1152S3         Intel(R) Pentium(R) 4 CPU 1.60GHz           1598.51 MHz    6.66 AM   0.62 EF
+M1152S3         Intel(R) Pentium(R) 4 CPU 1.60GHz           1597.45 MHz    6.61 AM   0.62 EF
+QWERTZZ-GR5J4UM Intel(R) Pentium(R) 4 CPU 1700MHz           1702.37 MHz    7.10 AM   0.63 EF
+M6181S3         Intel(R) Pentium(R) 4 CPU 2.80GHz           2793.31 MHz   11.83 AM   0.64 EF
+GABWS04905      Intel(R) Pentium(R) 4 CPU 3.20GHz           3194.45 MHz   11.27 AM   0.53 EF
+GABNB06489      Genuine Intel(R) CPU T2400 @ 1.83GHz        1828.74 MHz   14.36 AM   1.18 EF
+GABTEW0080      Intel(R) Core(TM)2 CPU 6300 @ 1.86GHz       1862.14 MHz   15.57 AM   1.25 EF
+GABWS07015      Intel(R) Core(TM)2 CPU 6700 @ 2.66GHz       2660.30 MHz   22.07 AM   1.24 EF
+GABNB06835      Intel(R) Core(TM)2 CPU T7600 @ 2.33GHz      2326.69 MHz   19.14 AM   1.23 EF
+LUCIFER         Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz 3085.49 MHz   24.87 AM   1.21 EF 
+PC-GTB          Intel(R) Core(TM)2 Quad CPU Q9650 @ 3.00GHz 2992.70 MHz 24.55 AM   1.23 EF   

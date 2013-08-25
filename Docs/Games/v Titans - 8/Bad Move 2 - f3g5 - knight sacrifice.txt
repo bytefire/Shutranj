@@ -1,0 +1,85 @@
+Filthy Mind Chess
+
+Choose your side (w/b): b
+Start playing.
+
+Filthy Mind: b1c3 (Depth: 7 plies; Time: 24181 ms)
+You: c7c5
+Filthy Mind: e2e4 (Depth: 7 plies; Time: 30760 ms)
+You: b8c6
+Filthy Mind: g1f3 (Depth: 7 plies; Time: 82610 ms)
+You: g7g6
+Filthy Mind: f1e2 (Depth: 7 plies; Time: 77489 ms)
+You: e7e5
+Filthy Mind: e1g1 (Depth: 7 plies; Time: 74293 ms)
+You: d7d6
+Filthy Mind: h2h3 (Depth: 7 plies; Time: 48559 ms)
+You: c8e6
+Filthy Mind: e2b5 (Depth: 7 plies; Time: 55572 ms)
+You: f8g7
+Filthy Mind: d2d3 (Depth: 7 plies; Time: 33080 ms)
+You: fen
+Board Position: r2qk1nr/pp3pbp/2npb1p1/1Bp1p3/4P3/2NP1N1P/PPP2PP1/R1BQ1RK1 w KQk
+q - 0 1
+You: g8f6
+Filthy Mind: c1g5 (Depth: 7 plies; Time: 46924 ms)
+You: h7h6
+Filthy Mind: g5f6 (Depth: 7 plies; Time: 26444 ms)
+You: g7f6
+Filthy Mind: d3d4 (Depth: 7 plies; Time: 33895 ms)
+You: fen
+Board Position: r2qk2r/pp3p2/2npbbpp/1Bp1p3/3PP3/2N2N1P/PPP2PP1/R2Q1RK1 w KQkq -
+ 0 1
+You: c5d4
+Filthy Mind: c3d5 (Depth: 7 plies; Time: 20939 ms)
+You: f6g7
+Filthy Mind: c2c3 (Depth: 7 plies; Time: 51877 ms)
+You: e8g8
+Filthy Mind: c3d4 (Depth: 7 plies; Time: 50918 ms)
+You: fen
+Board Position: r2q1rk1/pp3pb1/2npb1pp/1B1Np3/3PP3/5N1P/PP3PP1/R2Q1RK1 w KQkq -
+0 1
+You: c6d4
+Filthy Mind: f3d4 (Depth: 7 plies; Time: 29027 ms)
+You: e5d4
+Filthy Mind: d5f4 (Depth: 7 plies; Time: 83897 ms)
+You: e6c8
+Filthy Mind: b5d3 (Depth: 7 plies; Time: 59726 ms)
+You: g7e5
+Filthy Mind: f4d5 (Depth: 7 plies; Time: 17766 ms)
+You: c8e6
+Filthy Mind: a2a4 (Depth: 7 plies; Time: 64182 ms)
+You: f7f5
+Filthy Mind: a4a5 (Depth: 7 plies; Time: 34777 ms)
+You: f5f4
+Filthy Mind: d3e2 (Depth: 7 plies; Time: 49881 ms)
+You: h6h5
+Filthy Mind: d5b4 (Depth: 7 plies; Time: 51753 ms)
+You: d8g5
+Filthy Mind: b4d3 (Depth: 7 plies; Time: 34588 ms)
+You: fen
+Board Position: r4rk1/pp6/3pb1p1/P3b1qp/3pPp2/3N3P/1P2BPP1/R2Q1RK1 w KQkq - 0 1
+You: e6h3
+Filthy Mind: d3e1 (Depth: 8 plies; Time: 31764 ms)
+You: g8h8
+Filthy Mind: a1a3 (Depth: 7 plies; Time: 21544 ms)
+You: h3e6
+Filthy Mind: e1f3 (Depth: 7 plies; Time: 41643 ms)
+You: g5f6
+Filthy Mind: a5a6 (Depth: 7 plies; Time: 46379 ms)
+You: b7b6
+Filthy Mind: b2b3 (Depth: 7 plies; Time: 26673 ms)
+You: h8g8
+Filthy Mind: d1d2 (Depth: 7 plies; Time: 24050 ms)
+You: f8d8
+Filthy Mind: e2c4 (Depth: 7 plies; Time: 30151 ms)
+You: e6c4
+Filthy Mind: b3c4 (Depth: 7 plies; Time: 13442 ms)
+You: a8c8
+Filthy Mind: f1c1 (Depth: 7 plies; Time: 27746 ms)
+You: g6g5
+/****************** following is the bad move ******************/
+Filthy Mind: f3g5 (Depth: 7 plies; Time: 23093 ms)
+You: fen
+Board Position: 2rr2k1/p7/Pp1p1q2/4b1Np/2PpPp2/R7/3Q1PP1/2R3K1 w KQkq - 0 1
+You:

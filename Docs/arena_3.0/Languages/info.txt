@@ -1,0 +1,3 @@
+This is the directory for language files (localized translations of Arena).
+
+Dies ist das Verzeichnis für die Sprachdateien (Übersetzungen von Arena).

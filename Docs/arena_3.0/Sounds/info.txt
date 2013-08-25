@@ -1,0 +1,5 @@
+Directory for sound files,
+e.g. move announcements.
+
+Verzeichnis für Sound Dateien,
+z.B. für Zugansagen.

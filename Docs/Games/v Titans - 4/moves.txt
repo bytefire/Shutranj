@@ -1,0 +1,203 @@
+Filthy Mind Chess
+
+Choose your side (w/b): b
+Start playing.
+
+Filthy Mind: g1f3
+You: d7d5
+Filthy Mind: d2d4
+You: g8f6
+Filthy Mind: b1c3
+You: c8f5
+Filthy Mind: e2e3
+You: b8c6
+Filthy Mind: f1b5
+You: a7a6
+Filthy Mind: b5c6
+You: b7c6
+Filthy Mind: e1g1
+You: e7e6
+Filthy Mind: f3e5
+You: c6c5
+Filthy Mind: g2g4
+You: c5d4
+Filthy Mind: e3d4
+You: f5g6
+Filthy Mind: c1e3
+You: f8d6
+Filthy Mind: h2h3
+You: e8g8
+Filthy Mind: c3e2
+You: f8e8
+Filthy Mind: e5g6
+You: h7g6
+Filthy Mind: a2a4
+You: c7c6
+Filthy Mind: d1d3
+You: e6e5
+Filthy Mind: d4e5
+You: d6e5
+Filthy Mind: a1a2
+You: f6e4
+Filthy Mind: f2f4
+You: e5d6
+Filthy Mind: g1g2
+You: e4c5
+Filthy Mind: d3c3
+You: d8e7
+Filthy Mind: f1f3
+You: e7e4
+Filthy Mind: b2b3
+You: a6a5
+Filthy Mind: e2d4
+You: a8c8
+Filthy Mind: f4f5
+You: g6f5
+Filthy Mind: d4f5
+You: d5d4
+Filthy Mind: e3d4
+You: e4e2
+Filthy Mind: d4f2
+You: d6f8
+Filthy Mind: f5g3
+You: e2e5
+Filthy Mind: f2d4
+You: e5d5
+Filthy Mind: g2f2
+You: e8e4
+Filthy Mind: d4e3
+You: f8d6
+Filthy Mind: g3f5
+You: e4e5
+Filthy Mind: f2g2
+You: c5e4
+Filthy Mind: c3c4
+You: d5c4
+Filthy Mind: b3c4
+You: e5e6
+Filthy Mind: f5d6
+You: e6d6
+Filthy Mind: f3f5
+You: c6c5
+Filthy Mind: g2f3
+You: d6e6
+Filthy Mind: h3h4
+You: e4c3
+Filthy Mind: a2a1
+You: c3e4
+Filthy Mind: a1d1
+You: g7g6
+Filthy Mind: f5f4
+You: e4c3
+Filthy Mind: d1d7
+You: f7f6
+Filthy Mind: e3d2
+You: c3a4
+Filthy Mind: d2a5
+You: c8a8
+Filthy Mind: a5d2
+You: a4b6
+Filthy Mind: d7d3
+You: g6g5
+Filthy Mind: h4g5
+You: f6g5
+Filthy Mind: f4f5
+You: b6c4
+Filthy Mind: f5g5
+You: g8f7
+Filthy Mind: d2f4
+You: e6c6
+Filthy Mind: d3d7
+You: f7f6
+Filthy Mind: d7g7
+You: a8a3
+Filthy Mind: f3f2
+You: f6e6
+Filthy Mind: g7g6
+You: e6d7
+Filthy Mind: g5d5
+You: c4d6
+Filthy Mind: f4d6
+You: d7e8
+Filthy Mind: d5c5
+You: c6c5
+Filthy Mind: d6c5
+You: a3a2
+Filthy Mind: g6e6
+You: e8d7
+Filthy Mind: e6e2
+You: a2a4
+Filthy Mind: f2f3
+You: d7c6
+Filthy Mind: c5e3
+You: a4c4
+Filthy Mind: g4g5
+You: c4h4
+Filthy Mind: e3f4
+You: h4h1
+Filthy Mind: e2d2
+You: h1f1
+Filthy Mind: f3e3
+You: f1e1
+Filthy Mind: e3d4
+You: e1f1
+Filthy Mind: f4e3
+You: f1f8
+Filthy Mind: d2d1
+You: f8d8
+Filthy Mind: d4e4
+You: d8d1
+Filthy Mind: g5g6
+You: d1d6
+Filthy Mind: g6g7
+You: d6d8
+Filthy Mind: c2c4
+You: d8g8
+Filthy Mind: e3d4
+You: g8e8
+Filthy Mind: e4d3
+You: c6d6
+Filthy Mind: c4c5
+You: d6d5
+Filthy Mind: d4e3
+You: e8g8
+Filthy Mind: e3d4
+You: g8c8
+Filthy Mind: d4e3
+You: c8b8
+Filthy Mind: e3d4
+You: b8g8
+Filthy Mind: d3c3
+You: g8b8
+Filthy Mind: c3d3
+You: b8a8
+Filthy Mind: d4e3
+You: a8a3
+Filthy Mind: d3e2
+You: a3a2
+Filthy Mind: e2f3
+You: a2a8
+Filthy Mind: e3g5
+You: a8g8
+Filthy Mind: g5f6
+You: d5c5
+Filthy Mind: f6a1
+You: c5d5
+Filthy Mind: f3e3
+You: g8e8
+Filthy Mind: e3d3
+You: e8g8
+Filthy Mind: a1b2
+You: g8c8
+Filthy Mind: b2a1
+You: c8a8
+Filthy Mind: a1b2
+You: a8g8
+Filthy Mind: b2a1
+You: g8e8
+Filthy Mind: a1b2
+You: e8a8
+Filthy Mind: b2c1
+You: a8g8
+Filthy Mind: c1b2
+You:

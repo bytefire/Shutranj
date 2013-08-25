@@ -1,0 +1,61 @@
+Filthy Mind Chess
+
+Choose your side (w/b): b
+Start playing.
+
+Filthy Mind: e2e4
+You: c7c8
+Failed to make move. Try again.
+You: c7c6
+Filthy Mind: b1c3
+You: d7d5
+Filthy Mind: e4d5
+You: c6d5
+Filthy Mind: f1b5
+You: b8c6
+Filthy Mind: d2d4
+You: a7a6
+Filthy Mind: b5c6
+You: b7c6
+Filthy Mind: a2a3
+You: c8e6
+Filthy Mind: g1e2
+You: g8f6
+Filthy Mind: c1g5
+You: d8b6
+Filthy Mind: a1b1
+You: g7g6
+Filthy Mind: e2f4
+You: e6g4
+Filthy Mind: f2f3
+You: g4f5
+Filthy Mind: g2g4
+You: f5d7
+Filthy Mind: g5f6
+You: e7f6
+Filthy Mind: e1g1
+You: f8d6
+Filthy Mind: c3d5
+You: c6d5
+
+
+
+ ERROR: System.IndexOutOfRangeException was unhandled by user code
+  HResult=-2146233080
+  Message=Index was outside the bounds of the array.
+  Source=Shutranj.Engine
+  StackTrace:
+       at Shutranj.Engine.Board2.JustMoveThePiece(Piece movingPiece, Byte fromSquare, Byte toSquare) in d:\Development\Shutranj\Shutranj.Engine\Board2.cs:line 1323
+       at Shutranj.Engine.Board2.MakeMove(UInt16 move) in d:\Development\Shutranj\Shutranj.Engine\Board2.cs:line 337
+       at Shutranj.Engine.AlphaBeta2.AlphaBetaTT(Board2 board, Int32 alpha, Int32 beta, Byte depthLeft, SByte side, UInt16[] killers, Int32 level) in d:\Development\Shutranj\Shutranj.Engine\AlphaBeta2.cs:line 198
+       at Shutranj.Engine.AlphaBeta2.AlphaBetaTT(Board2 board, Int32 alpha, Int32 beta, Byte depthLeft, SByte side, UInt16[] killers, Int32 level) in d:\Development\Shutranj\Shutranj.Engine\AlphaBeta2.cs:line 202
+       at Shutranj.Engine.AlphaBeta2.AlphaBetaTT(Board2 board, Int32 alpha, Int32 beta, Byte depthLeft, SByte side, UInt16[] killers, Int32 level) in d:\Development\Shutranj\Shutranj.Engine\AlphaBeta2.cs:line 202
+       at Shutranj.Engine.AlphaBeta2.AlphaBetaTT(Board2 board, Int32 alpha, Int32 beta, Byte depthLeft, SByte side, UInt16[] killers, Int32 level) in d:\Development\Shutranj\Shutranj.Engine\AlphaBeta2.cs:line 202
+       at Shutranj.Engine.AlphaBeta2.<>c__DisplayClass2.<RootAlphaBetaTTParallel>b__1(Int32 i) in d:\Development\Shutranj\Shutranj.Engine\AlphaBeta2.cs:line 63
+       at System.Threading.Tasks.Parallel.<>c__DisplayClassf`1.<ForWorker>b__c()
+  InnerException: 
+
+
+REMARKS: when getting the zobrist key. movingPiece is None. from square = 63, to square = 53.
+FEN string at the time of exception: r4rkN/3b3p/p2b1p2/3p4/3P2P1/P4P2/1qP4P/1R1Q1RK1 w KQkq - 0 1
+Side-To-Move: White

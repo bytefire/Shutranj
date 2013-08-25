@@ -1,0 +1,26 @@
+score of -55 for following position (for move e1f1 in forward order) [depth left = 1]:
+r1b1k1nr/2p3pp/p1p5/3pqp2/8/P1N1PN2/2P2PPP/R1BQ1K1R w KQkq - 0 1
+
+
+for score of -70 (when taking move on its own)
+r1b1kbnr/2p2ppp/2p5/p2p1q2/P4P2/2N1PN2/1PP3PP/R1BQ1K1R w KQkq - 0 1
+
+>>>> for score of -55 when On its own!!
+r1b1kbnr/2p2ppp/2p5/p2p1q2/3N1P2/2N1P3/PPP3PP/R1BQ1K1R w KQkq - 0 1
+
+another one with -55 on its own!!
+r1b1kbnr/2p2ppp/2p5/p2p1q2/5P2/4P3/PPP1N1PP/RNBQ1K1R w KQkq - 0 1
+
+
+
+
+
+
+
+/*************following might have come from a different move***************/
+
+score of -70 for following position (for move e1f1 in reverse order): [depth left = 2]
+r1b1kbnr/2p2ppp/p7/1p1pP3/8/4PN2/PPP1KP1P/R1BQ3q w KQkq - 0 1
+
+[depth left = 1]
+r1b1kbnr/2p2ppp/p7/1p1pP3/8/4PN2/PPP1KP1P/R1B4Q w KQkq - 0 1

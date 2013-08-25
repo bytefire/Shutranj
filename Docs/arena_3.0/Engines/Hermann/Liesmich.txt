@@ -1,0 +1,114 @@
+Hermann ist ein Schachprogramm ohne eigene Benuteroberfläche. Arena oder Winboard
+wird empfohlen. 
+
+Die Logos stammen von Patrick Buchmann, David Dahlem, Alex Schmidt und Graham Banks.
+
+Hermann wird privaten Nutzern kostenlos zur Verfügung gestellt und darf in
+unveränderter Form kostenlos weiter gegeben werden. Für jede weiter gehende
+Nutzung ist die schriftliche Genehmigung des Autors erforderlich.
+
+Dieses Programm wird veröffentlicht, in der Hoffnung, dass es nützlich ist. Da es
+kostenlos ist, wird allerdings keine Eigenschaft zugesichert und es wird jede Haftung
+ausgeschlossen.
+
+Ab Version 2.2 gibt es eine 64-Bit-Version für Windows und Hermann wird für 64 Bit optimiert.
+32-Bit-Versionen werden weiterhin erstellt, sind aber eventuell langsamer und deswegen
+schwächer als Hermann 2.0.
+
+Viel Spaß mit Hermann
+Volker Annuss (e-mail: hermann-25@nnuss.de)
+
+
+
+Konfiguration
+=============
+
+Hermann arbeitet mit dem UCI- und dem xboard/Winboard-Protokoll.
+
+Ab Version 1.3 kann Hermann mit dem UCI-Protokoll den Mehrvariantenmodus nutzen.
+Ist bei der Option "MultiPV" ein Wert größer als 1 eingestellt, so werden mehrere
+Varianten ausgegeben. Das erfordert mehr Rechenzeit, weil auch schwächere Varianten
+genauer untersucht werden. Außerdem ist in diesem Modus eine optimale Zeiteinteilung
+nicht möglich. Dieser Modus wird nur für Analysen empfohlen.
+
+Weitere Optionen sind in der Datei Hermann.ini beschrieben. Diese Datei wird nur
+für das xboard/Winboard-Protokoll benutzt, enthält aber auch eine Beschreibung
+einiger UCI-Optionen.
+
+
+
+Danksagung
+==========
+
+An meine Frau Sabine, die oft viel Geduld mit mir haben musste, damit dieses
+Programm entstehen konnte.
+
+An Christian Bartsch dafür, dass er mich nicht nur als Tester, sondern
+auch als guter Zuhörer viele Jahre lang auf gute Ideen gebracht hat.
+
+An Kurt Utzinger, für seine sehr präzisen Tests.
+
+An Jörg Nowack für Chess960-Tests.
+
+An alle, die Hermann in Turnieren eingesetzt haben und ihre Ergebnisse veröffentlicht
+haben und/oder mir Fehler gemeldet haben.
+
+An alle, die ihre Ideen zur Schachprogrammierung veröffentlicht haben.
+
+
+
+Bucherzeugung
+=============
+
+Hermanns Bucherzeugung ist noch experimentell und wird in späteren Versionen noch
+verbessert werden. Zur Bucherzeugung muss Hermann.exe direkt ohne grafische 
+Benutzeroberfläche gestartet werden.
+
+Um die Kommandos zur Bucherzeugung zu akzeptieren muss Hermann in den UCI-Modus
+gebracht werden durch die Eingabe von
+
+    uci
+
+Ein Eröffnungsbuch kann aus mehreren PGN-Dateien erzeugt werden. Mit
+
+    book add <PGN-Datei> [value <v>] [ELO <e>] [all]
+
+werden Dateien zum Buch hinzu gefügt.
+
+Wird ein value-Parameter angegeben, kann das Gewicht der Partien geändert werden.
+Voreingestellt ist der Wert 1000.
+
+Wird ein ELO-Parameter angegeben, so werden nur die Partien berücksichtigt, bei denen
+beide Spieler eine ELO-Zahl haben, die mindestens so groß wie die angegebene ist.
+
+Wird all angegeben, werden alle Partien berücksichtigt, auch Kurzpartien. Doppelte
+Partien werden dann nicht ausgefiltert
+
+Eine Datei kann mehrfach mit unterschiedlichen Parametern angegeben werden. Jede Partie
+daraus wird nur höchstens einmal mit der maximalen Punktzahl bewertet.
+
+
+Das Buch wird mit
+
+    book write <Dateiname> [width <w>] [threshold <t>]
+
+geschrieben.
+
+
+Der Parameter width gibt an, wie breit das Buch werden soll. Ein großer Wert führt dazu,
+dass Hermann abwechslunsreicher spielt, aber auch schlechtere Züge in der Eröffnung wählt.
+Wird dieser Parameter nicht angegeben, ist 25 voreingestellt, was schon einem relativ
+breiten Buch entspricht.
+
+Der Parameter threshold gibt die Punktzahl (abgeleitet aus den value-Parametern von 
+book add ...) an, die Ein Zug mindestens erreichen muss, um ins Buch aufgenommen zu werden.
+Voreingestellt ist der Wert 3000.
+
+
+Beispiel zur Bucherzeugung:
+    book add twic478.pgn value 1000 ELO 2600
+    book add twic478.pgn value 500 ELO 2400
+    book add GM2001.pgn
+    book write MeinBuch.opn width 10 threshold 1500
+    quit
+

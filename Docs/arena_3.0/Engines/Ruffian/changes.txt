@@ -1,0 +1,11 @@
+2002 Nov. Version 1.05
+
+  o It's basically the same as v1.0.1 with some bugfixes
+
+2002-09-29 Version 1.0.1
+
+  o Fixed broken UCI interface. Ponder on should work now.
+ 
+2002-09-22 Version 1.0.0 
+
+  o First public release.

@@ -1,0 +1,26 @@
+r3k2r/pb2qpbp/1pn1pnp1/2PpP3/2B2B2/2N2N2/PPPQKPPP/R6R w KQkq - 0 1
+r1k4r/pb2qpbp/1pn1pnp1/2PpP3/2B2B2/2N2N2/PPPQKPPP/R6R w KQkq - 0 1
+r1k4r/pb2qpbp/1p2pnp1/2PpP3/2Bn1B2/2N2N2/PPPQKPPP/R6R w KQkq - 0 1
+---------------
+r3k2r/pb2qpbp/1pn1pnp1/2PpP3/2B2B2/2N2N2/PPPQ1PPP/R3K2R w KQkq - 0 1
+
+r1k4r/pb3pbp/1pnqpnp1/2PpP3/5B2/2N2N2/PPPQ1PPP/R3KB1R w KQkq - 0 1
+
+
+return (((int)piece * side) > 0);
+
+None = 0,
+
+        BlackKing = -1,
+        BlackQueen = -2,
+        BlackRook = -3,
+        BlackBishop = -4,
+        BlackKnight = -5,
+        BlackPawn = -6,
+
+        WhiteKing = 1,
+        WhiteQueen = 2,
+        WhiteRook = 3,
+        WhiteBishop = 4,
+        WhiteKnight = 5,
+        WhitePawn = 6,

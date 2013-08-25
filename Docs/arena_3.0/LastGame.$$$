@@ -1,0 +1,27 @@
+[LastMove "67"]
+[Event "Computer chess game"]
+[Site "NKJLDFGLKJ-PC"]
+[Date "2013.08.24"]
+[Round "?"]
+[White "Shutranj [001]"]
+[Black "nkjldfglkj"]
+[Result "1-0"]
+[BlackElo "2400"]
+[ECO "C46"]
+[Opening "Three Knights"]
+[Time "23:21:30"]
+[Variation "3...d6 4.d4"]
+[WhiteElo "2000"]
+[TimeControl "40/9000:40/9000:40/9000"]
+[Termination "normal"]
+[PlyCount "67"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. e4 e5 2. Nc3 h5 3. a3 b6 4. Nf3 Rh6 5. Nxe5 d6 6. Nxf7
+Bg4 7. Nxd8 Bxd1 8. d4 Bg4 9. Bc4 Rf6 10. Bxg8 Kxd8 11. Bg5 Kd7 12. Bxf6
+gxf6 13. Nd5 Nc6 14. Nxf6+ Kd8 15. Bd5 Nxd4 16. Bxa8 Nxc2+ 17. Kd2 Nd4 18.
+Nxg4 hxg4 19. Bd5 Bh6+ 20. Kd3 Nb3 21. Bxb3 c5 22. Bd1 c4+ 23. Kxc4 Bg7 24.
+Rb1 a6 25. Bxg4 b5+ 26. Kd5 Bf8 27. Kc6 a5 28. Kxb5 a4 29. Rhd1 d5 30.
+Rxd5+ Kc7 31. Rbd1 Bg7 32. Rd7+ Kb8 33. Rxg7 Ka8 34. Rd8# 1-0
+

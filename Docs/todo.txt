@@ -1,0 +1,4 @@
+1. test and save as v0.12
+2. get rid of old code (Board.cs etc)
+3. draw by repitition
+4. fifty move rule

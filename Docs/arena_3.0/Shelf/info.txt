@@ -1,0 +1,3 @@
+This is the directory for temporary chess files (PGN).
+
+Dies ist das Verzeichnis für temporäre Schachpartien (PGN).

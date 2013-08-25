@@ -1,0 +1,25 @@
+Filthy Mind Chess
+
+Choose your side (w/b): b
+Start playing.
+
+Filthy Mind: e2e4 (Depth: 7 plies)
+You: e7e6
+Filthy Mind: g1f3 (Depth: 6 plies)
+You: d7d5
+Filthy Mind: e4d5 (Depth: 7 plies)
+You: e6d5
+Filthy Mind: d2d4 (Depth: 7 plies)
+You: g8f6
+Filthy Mind: b1c3 (Depth: 6 plies)
+You: f8d6
+Filthy Mind: f1b5 (Depth: 6 plies)
+You: c7c6
+Filthy Mind: b5e2 (Depth: 6 plies)
+You: c8e6
+Filthy Mind: f3g5 (Depth: 6 plies)
+You: e6f5
+
+/************* for the following move **************/
+Filthy Mind: e2d3 (Depth: 6 plies)
+You:

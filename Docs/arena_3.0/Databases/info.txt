@@ -1,0 +1,6 @@
+Directory for chess databases.
+Verzeichnis für Schach-Datenbanken.
+
+Official computer chess events up to 1970 = cc_1970.pgn   --> 00.726 games
+Official computer chess events since 1990 = cc_1990.pgn   --> 07.127 games
+GM database by Olivier DEVILLE            = o-deville.pgn --> 10.147 games

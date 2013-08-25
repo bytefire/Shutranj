@@ -1,0 +1,39 @@
+// NOTE:  the reason for excludeCastling parameter is that including castling results in infinite 
+            //        recursion when checking if the king can castle.
+
+            UInt64 kingLocation = ((UInt64)1) << square;
+
+            // from http://pages.cs.wisc.edu/~psilord/blog/data/chess-pages/nonsliding.html
+
+            UInt64 kingClipFileA = kingLocation & Constants.ClearFileAMask;
+            UInt64 kingClipFileH = kingLocation & Constants.ClearFileHMask;
+
+            UInt64 spot1 = kingClipFileA << 7;
+            UInt64 spot2 = kingLocation << 8;
+            UInt64 spot3 = kingClipFileH << 9;
+            UInt64 spot4 = kingClipFileH << 1;
+
+            UInt64 spot5 = kingClipFileH >> 7;
+            UInt64 spot6 = kingLocation >> 8;
+            UInt64 spot7 = kingClipFileA >> 9;
+            UInt64 spot8 = kingClipFileA >> 1;
+            UInt64 castlingSpots = excludeCastlingSpots ? 0 : GetCastlingSpots(square);
+
+            UInt64 kingAttackSet = spot1 | spot2 | spot3 | spot4 |
+                spot5 | spot6 | spot7 | spot8 | castlingSpots;
+            UInt64 kingValidMoves = kingAttackSet & (~ownBoard);
+            return kingValidMoves;
+			
+			
+**************************************************
+ABTTParallel: Best Move For White: b1c3. Depth: 7. Score:-90. TIME: 23832 milliseconds
+IDASParallel: Best Move For White: e2e4. Depth: 7. Score:-90. TIME: 15403 milliseconds
+			
+			
+			
+			
+			
+			
+			
+			
+			

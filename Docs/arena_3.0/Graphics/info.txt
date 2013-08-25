@@ -1,0 +1,7 @@
+This is the directory for your graphics-files.
+Please save graphics files here, especially if you want 
+to distribute your appearance-files.
+
+Dies ist das Verzeichnis für eure Grafik-Dateien.
+Bitte speichert die Grafiken hier, besonders wenn ihr
+die Oberflächen Dateien weitergeben wollt.

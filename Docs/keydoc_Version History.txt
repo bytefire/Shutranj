@@ -1,0 +1,34 @@
+Filthy Mind v0.10
+=================
+
+- NegaMax with Alpha-Beta pruning
+- Transposition Tables (lockless)
+- Parallelised Root NegaMax
+- Killer Heuristic
+- Move Ordering
+
+Filthy Mind v0.11
+=================
+
+- Aspiration Windows
+- Quicker route to checkmate
+
+Filthy Mind v0.12
+=================
+(date: 7 Aug 2013)
+
+- Takes stalemate into account.
+- Fixed castling defect
+
+Filthy Mind v0.13
+=================
+(date: 11 Aug 2013)
+
+- Basic UCI compatiblity
+- Tested successfully with Arena GUI
+
+TODO:
+====
+
+1. Can't detect draw by repitition
+2. Promos always have to be queens
