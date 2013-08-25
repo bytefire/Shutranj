@@ -1,7 +1,7 @@
 Shutranj
 ========
 
-This is a chess engine written is C# 5.0.It's pretty stable now and beats Chess Titans, which comes with Windows 7, at level 10. Assuming that Chess Titans level 10 plays at < 1700 ELO, we can say that Shutranj plays at > 1700 ELO. It has a basic UCI support and has been tested to work with Arena GUI. It has some missing functionality and much room for improvement, as listed under 'Work To Do' section.
+This is a chess engine written is C# 5.0.It's pretty stable now and beats Chess Titans, which comes with Windows 7, at level 10. Assuming that Chess Titans level 10 plays at just under 1700 ELO, we can say that Shutranj plays at > 1700 ELO. It has a basic UCI support and has been tested to work with Arena GUI. It has some missing functionality and much room for improvement, as listed under 'Work To Do' section.
 
 Features
 --------
