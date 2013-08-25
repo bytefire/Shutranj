@@ -29,3 +29,14 @@ This is divided into two parts: Missing Functionality and Improvements.
 - Ending tablebases
 - Better time controls
 - Enhanced UCI support
+
+How to Run With Arena GUI
+-------------------------
+Follow these steps to run Shutranj with Arena GUI.
+
+1. Download/clone and build Shutranj solution using Visual Studio 2012 or your IDE of choice. Under the location (parent folder of Shutranj code)\Shutranj\Shutranj.UCIShell\bin\Release there will be a Shutranj.exe created as a result of the build.
+2. Download Arena 3.0 from http://www.playwitharena.com/?Download.
+3. Install and open Arena 3.0, go to Engines > Install New Engine... and browse to Shutranj.exe that you generated in step 1 above.
+That's it! The engine is installed and ready to play. As mentioned above, the UCI support is rudimentary and although the engine is capable of undoing moves, UCI support for undo move is not in place.
+
+Hope this helps. Download the code and have a play around. If you get any problems, have any suggestions or want to contribute do to let me know.
